@@ -1,5 +1,5 @@
 <h1 align = "center">
-Hi there 👋 I'm Yui Takeuchi-Schoepe! 
+Hi there! I'm Yui Takeuchi-Schoepe 👩‍💻
 </h1>
 <h3 align = 'center'>
 <strong><i>
@@ -10,10 +10,17 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe!
 <p>
 &nbsp;
 
-👉　I have a master's degree in <strong> Linguistics (Socio-linguistics) </strong> from University of Strasbourg.<br>
-👉　I worked on data analytics projects with BI tools as a Marketing Specialist at a Japanese electronics company.  
-🌱　Now I'm looking to pursue a career as Data Scientist / Data Engineer.  <br> 
-:de:
+  ✔️ I am a linguist with a bachelor's degree in Linguistics from Tokyo University of Foreign Studies (Japan) <br> & a master's degree in <strong> Linguistics (Socio-linguistics) </strong> from University of Strasbourg (France).<br>
+&nbsp;
+  
+  ✔️ After graduating from university, I worked on data analytics projects using BI tools as a Marketing Specialist at a Japanese electronics company. This experience 🌟 SPARKED 🌟 my interest in data science and coding! I joined a coding bootcamp to sharpen my coding skills and apply them in practice.  <br>
+&nbsp;
+  
+✔️ Now I'm looking to pursue a career as Data Scientist / Data Engineer! 
+&nbsp;
+  
+✔️ I speak English (professional), German (professional C1-level), French (professional C2-level), Japanese (native), and Python 😄 <br> 
+
 </p>
 
 <!--
