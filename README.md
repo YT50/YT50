@@ -16,7 +16,7 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
 <li>Have <strong>Master of Arts in Linguistics </strong> (Socio-linguistics) from University of Strasbourg (France)</li>
 <li>Worked for a Japanese electronics company as a Marketing Specialist for 1.5 years</li>
-<li>Joined a  <strong> Data Science Coding bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
+<li>Completed a  <strong> Data Science Coding bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
 </ul>  
   
 ⛏️<strong>Tools</strong>
