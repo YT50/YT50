@@ -23,17 +23,17 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
   
 ⛏️<strong>Tools</strong>
 
-Language: Python
+<strong>Language</strong>: Python
 
-Collection and Storage: SQL, SQLite.
+<strong>Collection and Storage</strong>: SQL, SQLite.
 
-Processing: Pandas, Numpy, Jupyter.
+<strong>Processing</strong>: Pandas, Numpy, Jupyter.
 
-Development: Git, Linux and Docker.
+<strong>Development</strong>: Git, Linux and Docker.
 
-Visualization: Seaborn and Matplotlib.
+<strong>Visualization</strong>: Seaborn and Matplotlib.
 
-ML Modeling: Scikit Learn and Tensorflow.Keras (Classification, Regression, Clusterization, Time Series and Neural Network).
+<strong>ML Modeling</strong>: Scikit Learn and Tensorflow.Keras (Classification, Regression, Clusterization, Time Series and Neural Network).
   
 </p>
 
