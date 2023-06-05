@@ -19,6 +19,22 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 🌏 I speak English (professional), German (professional C1-level), French (professional C2-level), Japanese (native) <br> 
 
 🚀 Now I'm looking to pursue a career as Data Scientist / Data Engineer! 
+  
+  
+⛏️** Tools**
+
+Language: Python
+
+Collection and Storage: SQL, SQLite.
+
+Processing: Pandas, Numpy, Jupyter.
+
+Development: Git, Linux and Docker.
+
+Visualization: Seaborn and Matplotlib.
+
+ML Modeling: Scikit Learn and Tensorflow.Keras (Classification, Regression, Clusterization, Time Series and Neural Network).
+  
 </p>
 
 <!--
