@@ -10,31 +10,35 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <p>
 &nbsp;
 
-📕 I am a linguist with a bachelor's degree in Linguistics from Tokyo University of Foreign Studies (Japan) & a master's degree in Linguistics (Socio-linguistics) from University of Strasbourg (France).<br>
-&nbsp;
-  
-📘 After graduating from university, I worked on data analytics projects using BI tools as a Marketing Specialist at a Japanese electronics company. This experience sparked my interest in data science and coding! I joined a coding bootcamp to sharpen my coding skills and apply them in practice.  <br>
-&nbsp;
- 
-🌏 I speak English (professional), German (professional C1-level), French (professional C2-level), Japanese (native) <br> 
-
-🚀 Now I'm looking to pursue a career as Data Scientist / Data Engineer! 
-  
+🚀 <strong>Background</strong>
+<ul>
+<li>Was Born and raised in Osaka, Japan</li>
+<li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
+<li>Have <strong>Master of Arts in Linguistics </strong> (Socio-linguistics) from University of Strasbourg (France)</li>
+<li>Worked for a Japanese electronics company as a Marketing Specialist for 1.5 years</li>
+<li>Joined a  <strong> Data Science Coding bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
+</ul>  
   
 ⛏️<strong>Tools</strong>
+<ul>
+<li><strong>Language</strong>: Python<br>
+<li><strong>Collection and Storage</strong>: SQL, SQLite.<br></li>
+<li><strong>Processing</strong>: Pandas, Numpy, Jupyter.<br></li>
+<li><strong>Development</strong>: Git, Linux and Docker.<br></li>
+<li><strong>Visualization</strong>: Seaborn and Matplotlib.<br></li>
+<li><strong>ML Modeling</strong>: Scikit Learn and Tensorflow.Keras (Classification, Regression, Clusterization, Time Series and Neural Network).<br></li>
+</ul>
 
-<strong>Language</strong>: Python
+🌏<strong>Languages</strong>  
+<ul>
+<li><strong>Japanese</strong> (native)</li>
+<li><strong>English</strong> (professional C2-level)</li>
+<li><strong>French</strong> (professional C2-level)</li>
+<li><strong>German</strong> (professional C1-level)</li>
+<li><strong>Korean</strong> (intermediate, B1-level)</li>
 
-<strong>Collection and Storage</strong>: SQL, SQLite.
+</ul>
 
-<strong>Processing</strong>: Pandas, Numpy, Jupyter.
-
-<strong>Development</strong>: Git, Linux and Docker.
-
-<strong>Visualization</strong>: Seaborn and Matplotlib.
-
-<strong>ML Modeling</strong>: Scikit Learn and Tensorflow.Keras (Classification, Regression, Clusterization, Time Series and Neural Network).
-  
 </p>
 
 <!--
