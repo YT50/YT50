@@ -21,7 +21,7 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 🚀 Now I'm looking to pursue a career as Data Scientist / Data Engineer! 
   
   
-⛏️** Tools**
+⛏️<strong>Tools</strong>
 
 Language: Python
 
