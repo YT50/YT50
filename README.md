@@ -22,11 +22,11 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 ⛏️<strong>Tools</strong>
 <ul>
 <li><strong>Language</strong>: Python<br>
-<li><strong>Collection and Storage</strong>: SQL, SQLite.<br></li>
-<li><strong>Processing</strong>: Pandas, Numpy, Jupyter.<br></li>
-<li><strong>Development</strong>: Git, Linux and Docker.<br></li>
-<li><strong>Visualization</strong>: Seaborn and Matplotlib.<br></li>
-<li><strong>ML Modeling</strong>: Scikit Learn and Tensorflow.Keras (Classification, Regression, Clusterization, Time Series and Neural Network).<br></li>
+<li><strong>Collection and Storage</strong>: SQL, SQLite<br></li>
+<li><strong>Processing</strong>: Pandas, Numpy, Jupyter<br></li>
+<li><strong>Development</strong>: Git, Linux, Docker<br></li>
+<li><strong>Visualization</strong>: Seaborn, Matplotlib<br></li>
+<li><strong>ML Modeling</strong>: Scikit Learn, Tensorflow, Keras (Classification, Regression, Clusterization, Time Series and Neural Network)<br></li>
 </ul>
 
 🌏<strong>Languages</strong>  
