@@ -12,7 +12,7 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 
 🚀 <strong>Background</strong>
 <ul>
-<li>Was Born and raised in Osaka, Japan</li>
+<li>Was born and raised in Osaka, Japan</li>
 <li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
 <li>Have <strong>Master of Arts in Linguistics </strong> (Socio-linguistics) from University of Strasbourg (France)</li>
 <li>Worked as a Marketing Specialist at a Japanese electronics company based in Germany for 1.5 years </li>
