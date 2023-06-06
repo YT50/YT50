@@ -14,8 +14,8 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <ul>
 <li>Was born and raised in Osaka, Japan</li>
 <li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
-<li>Have <strong>Master of Arts in Linguistics </strong> (Socio-linguistics) from University of Strasbourg (France)</li>
-<li>Worked as a Marketing Specialist at a Japanese electronics company based in Germany for 1.5 years </li>
+<li>Have <strong>Master of Arts in Linguistics </strong> (Sociolinguistics) from University of Strasbourg (France)</li>
+<li>Worked as a Marketing Specialist at Taiyo Yuden Europe GmbH for 1.5 years, where I developed <strong> Power BI sales dashboards</strong>, coded <strong> VBA for Excel macros </strong>and managed datasets </li>
 <li>Completed a  <strong> Data Science Coding bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
 </ul>  
   
