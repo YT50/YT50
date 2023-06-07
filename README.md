@@ -19,7 +19,7 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
  <ul>
   <li> Developing <strong>Power BI sales dashboards</strong>  and manage datasets</li>
   <li> Automating tasks for development of mid-term business plans, sales budgets and forecasts with <strong>Excel VBA Macros</strong> </li>
-  <li> Performing research on <strong>market trends</strong> and prepare data-driven marketing proposals to the management</li>
+  <li> Performing research on <strong>market trends</strong> and preparing data-driven marketing proposals to the management</li>
 
  </ul>
 <li>Completed a  <strong> Data Science Coding bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
