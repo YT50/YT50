@@ -15,11 +15,17 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <li>Was born and raised in Osaka, Japan</li>
 <li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
 <li>Have <strong>Master of Arts in Linguistics </strong> (Sociolinguistics) from University of Strasbourg (France)</li>
-<li>Worked as a Marketing Specialist at Taiyo Yuden Europe GmbH for 1.5 years, where I developed <strong> Power BI sales dashboards</strong>, coded <strong> VBA for Excel macros </strong>and managed datasets </li>
+<li>Worked as a Marketing Specialist at Taiyo Yuden Europe GmbH for 1.5 years. My responsibilities involved:
+ <ul>
+  <li> Developing <strong>Power BI sales dashboards</strong>  and manage datasets</li>
+  <li> Automating tasks for development of mid-term business plans, sales budgets and forecasts with <strong>Excel VBA Macros</strong> </li>
+  <li> Performing research on <strong>market trends</strong> and prepare data-driven marketing proposals to the management</li>
+
+ </ul>
 <li>Completed a  <strong> Data Science Coding bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
 </ul>  
   
-⛏️<strong>Tools</strong>
+⛏️ <strong>Tools</strong>
 <ul>
 <li><strong>Language</strong>: Python<br>
 <li><strong>Collection and Storage</strong>: SQL, SQLite<br></li>
@@ -29,13 +35,13 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <li><strong>ML Modeling</strong>: Scikit Learn, Tensorflow, Keras (Classification, Regression, Clusterization, Time Series and Neural Network)<br></li>
 </ul>
 
-🌏<strong>Languages</strong>  
+🌏 <strong>Languages</strong>  
 <ul>
 <li><strong>Japanese</strong> (native)</li>
 <li><strong>English</strong> (professional C2-level)</li>
 <li><strong>French</strong> (professional C2-level)</li>
 <li><strong>German</strong> (professional C1-level)</li>
-<li><strong>Korean</strong> (intermediate, B1-level)</li>
+<li><strong>Korean</strong> (intermediate B1-level)</li>
 
 </ul>
 
