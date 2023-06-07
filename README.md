@@ -17,7 +17,7 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <li>Have <strong>Master of Arts in Linguistics </strong> (Sociolinguistics) from University of Strasbourg (France)</li>
 <li>Worked as a Marketing Specialist at Taiyo Yuden Europe GmbH for 1.5 years. My responsibilities involved:
  <ul>
-  <li> Developing <strong>Power BI sales dashboards</strong>  and manage datasets</li>
+  <li> Developing <strong>Power BI sales dashboards</strong>  and managing datasets</li>
   <li> Automating tasks for development of mid-term business plans, sales budgets and forecasts with <strong>Excel VBA Macros</strong> </li>
   <li> Performing research on <strong>market trends</strong> and preparing data-driven marketing proposals to the management</li>
 
