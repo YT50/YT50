@@ -33,6 +33,7 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 <li><strong>Development</strong>: Git, Linux, Docker<br></li>
 <li><strong>Visualization</strong>: Seaborn, Matplotlib<br></li>
 <li><strong>ML Modeling</strong>: Scikit Learn, Tensorflow, Keras (Classification, Regression, Clusterization, Time Series and Neural Network)<br></li>
+<li><strong>ML Model Management</strong>: MLflow<br></li>
 </ul>
 
 🌏 <strong>Languages</strong>  
