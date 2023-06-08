@@ -1,5 +1,5 @@
 <h1 align = "center">
-Hi there 👋 I'm Yui Takeuchi-Schoepe
+Yui Takeuchi-Schoepe
 </h1>
 <h3 align = 'center'>
 <strong><i>
