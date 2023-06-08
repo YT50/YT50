@@ -1,5 +1,5 @@
 <h1 align = "center">
-Yui Takeuchi-Schoepe
+Yui Takeuchi-Schöpe
 </h1>
 <h3 align = 'center'>
 <strong><i>
