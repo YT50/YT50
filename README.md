@@ -46,6 +46,14 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 
 </ul>
 
+
+
+💻 <strong>Projects</strong>  
+<ul>
+<li><strong>Under Construction...🚧</strong> (native)</li>
+
+</ul>
+
 </p>
 
 <!--
