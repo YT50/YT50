@@ -49,10 +49,10 @@ Hi there 👋 I'm Yui Takeuchi-Schoepe
 
 
 💻 <strong>Projects</strong>  
-<ul>
-<li><strong>Under Construction...🚧</strong> (native)</li>
 
-</ul>
+Under Construction...🚧
+
+
 
 </p>
 
