@@ -22,7 +22,7 @@ Yui Takeuchi-Schöpe
   <li> Performing research on <strong>market trends</strong> and preparing data-driven marketing proposals to the management</li>
 
  </ul>
-<li>Completed <strong> Data Science Coding Bootcamp </strong> (Le Wagon) to sharpen my coding skills and apply them in practice</li> 
+<li>Completed <strong> Data Science Coding Bootcamp </strong> to sharpen my coding skills and apply them in practice</li> 
 </ul>  
   
 ⛏️ <strong>Tools</strong>
