@@ -50,9 +50,10 @@ Yui Takeuchi-Schöpe
 
 💻 <strong>Projects</strong>  
 
-Under Construction...🚧
+<ul>
+<li><a href="https://github.com/YT50/sentiment_analysis">NLP Sentiment Analysis on Movie Reviews</a></li>
 
-
+</ul>
 
 </p>
 
