@@ -51,8 +51,8 @@ Yui Takeuchi-Schöpe
 💻 <strong>Projects</strong>  
 
 <ul>
-<li><a href="https://github.com/YT50/sentiment_analysis">NLP Sentiment Analysis on Movie Reviews</a></li>
-
+<li><a href="https://github.com/YT50/sentiment_analysis">NLP Sentiment Analysis on Movie Reviews using Naive Bayes</a></li>
+<li><a href="https://github.com/YT50/Airbnb-price-prediction">Airbnb Price Prediction using Deep Learning model</a></li>
 </ul>
 
 </p>
