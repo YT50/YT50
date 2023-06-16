@@ -51,6 +51,7 @@ Yui Takeuchi-Schöpe
 💻 <strong>Projects</strong>  
 
 <ul>
+<li><a href="https://github.com/RitaBastosRG/skin_detection_1271">Skin Cancer Detection App</a></li>
 <li><a href="https://github.com/YT50/sentiment_analysis">NLP Sentiment Analysis on Movie Reviews using Naive Bayes model</a></li>
 <li><a href="https://github.com/YT50/Airbnb-price-prediction">Airbnb Price Prediction using Deep Learning model</a></li>
 </ul>
