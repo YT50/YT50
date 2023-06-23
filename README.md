@@ -12,7 +12,7 @@ Yui Takeuchi-Schöpe
 
 🚀 <strong>Background</strong>
 <ul>
-<li>Was born and raised in Osaka, Japan</li>
+<li>Grew up in Osaka, Japan</li>
 <li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
 <li>Have <strong>Master of Arts in Linguistics </strong> (Sociolinguistics) from University of Strasbourg (France)</li>
 <li>Worked as a Marketing Sales Support at Taiyo Yuden Europe GmbH for 1.5 years. My responsibilities involved:
