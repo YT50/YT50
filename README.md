@@ -29,7 +29,7 @@ Yui Takeuchi-Schöpe
   
 ⛏️ <strong>Tools</strong>
 <ul>
-<li><strong>Language</strong>: Python<br>
+<li><strong>Language</strong>: Python, JavaScript, HTML, CSS<br>
 <li><strong>Collection and Storage</strong>: SQL, SQLite<br></li>
 <li><strong>Processing</strong>: Pandas, Numpy, Jupyter<br></li>
 <li><strong>Development</strong>: Git, Linux, Docker<br></li>
