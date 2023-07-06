@@ -15,7 +15,7 @@ Yui Takeuchi-Schöpe
 <li>Grew up in Osaka, Japan</li>
 <li>Have <strong>Bachelor of Arts in Linguistics </strong> from Tokyo University of Foreign Studies (Japan)</li>
 <li>Have <strong>Master of Arts in Linguistics </strong> (Sociolinguistics) from University of Strasbourg (France)</li>
-<li>Worked as a <strong>Marketing Data Analyst </strong>strong>at Taiyo Yuden Europe GmbH for 1.5 years. My responsibilities involved:
+<li>Worked as a <strong>Marketing Data Analyst </strong>at Taiyo Yuden Europe GmbH for 1.5 years. My responsibilities involved:
  <ul>
   <li> Developing <strong>Power BI sales dashboards</strong>  and managing datasets</li>
   <li> Automating tasks for development of mid-term business plans, sales budgets and forecasts with <strong>Excel VBA Macros</strong> </li>
