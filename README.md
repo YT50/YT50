@@ -3,7 +3,7 @@ Yui Takeuchi-Schöpe
 </h1>
 <h3 align = 'center'>
 <strong><i>
-  Data Scientist / Linguist
+  Data Analyst / Linguist
 </strong> </i>
 </h3>
 &nbsp;
